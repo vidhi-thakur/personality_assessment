@@ -6,6 +6,5 @@
   position: fixed;
   background-color: var(--primary-color);
   width: 100vw;
-  height: 60vh;
   z-index: -1;
 }

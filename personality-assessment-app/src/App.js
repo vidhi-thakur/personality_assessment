@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <div className="background-container">
+      <div className="background-container h-5/6 md:h-4/6">
       </div>
       <Router>
         <Navbar />
