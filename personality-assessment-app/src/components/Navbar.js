@@ -8,7 +8,7 @@ function Navbar() {
                 <Link to="/">
                     <span className="text-lg">CAREER SELECT</span>
                 </Link>
-                <Link to="/personal_details">
+                <Link to="/sample_report">
                     <strong className="font-bold text-lg">Take the test</strong>
                 </Link>
             </div>

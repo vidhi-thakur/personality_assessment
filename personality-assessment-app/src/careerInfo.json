@@ -1,0 +1,27 @@
+{
+    "extraversion": {
+        "url": "https://happifiers-cms-uploads.happify.com/cms_uploads/en_US/img/happifiers/extroverts_OG_540d8d1.png",
+        "about": "You often find yourself in social situations where you are the centre of attention and are always entertaining people. You thrive when talking to others and feel most creative when doing so. As an extrovert, you can easily become bored when you are alone, and you need a professional environment where you work as part of a team and have the opportunity to network with other. You are naturally confident and outgoing.",
+        "relatedProfession": ["Politician", "Lawyer", "Marketing manager", "Event planner",  "Human resources advisor", "Public relations officer", "Tour guide", "Financial advisor", "Actor", "Flight attendant", "Social media coordinator"]
+    }, 
+    "agreeableness": {
+        "url": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/11/18095154/agreeable-1024x512.png",
+        "about": "You are likely popular and tend to make friends easily. You also may be seen as trustworthy, altruistic, honest, modest, empathetic, and cooperative. Overall, agreeableness describes a person's ability to put other people's needs above their own. For instance, people who are high in agreeableness naturally experience empathy and tend to get tremendous pleasure from serving others and taking care of them. You are trusting and forgiving and would rather collaborate than compete with others.",
+        "relatedProfession": ["Counselor", "Nurse", "Teacher", "Religious Leader", "Veterinarian", "Non-Profit Organizer", "Judge"]
+    },
+    "conscientiousness": {
+        "url": "https://www.jobstreet.com.my/career-resources/wp-content/uploads/sites/2/2021/03/Career-Test-Conscientious-Jobseekers-Have-an-Edge-1-scaled.jpg",
+        "about": "You have a high level of self-discipline. Conscientiousness is about how a person controls, regulates, and directs their impulses. Individuals with a high level of conscientiousness on a career test are good at formulating long-range goals, organizing and planning routes to these goals, and working consistently to achieve them. Despite short-term obstacles they may encounter. Other people usually perceive a conscientious personality type as a responsible and reliable person. Their methodic planning and perseverance usually makes them highly successful in their chosen occupation.",
+        "relatedProfession": ["Accountant", "Sales manager", "Administrative assistant", "Therapist", "Commercial pilot", "Surgeon"]
+    },
+    "emotional_stability": {
+        "url": "https://www.soulcentric.in/assets/images/program/images/Website_Details61.jpg",
+        "about": "People who score high in emotional stability react less emotionally and are less easily upset. They tend to be emotionally stable, calm, and do not constantly experience negative feelings. A person who has a high level of emotional stability is preferred in most professions because they have more control over their emotions at work.",
+        "relatedProfession": ["Psychologist", "Social worker", "Psychiatric nurse"]
+    },
+    "intellect": {
+        "url": "https://thumbs.dreamstime.com/b/creative-mind-concept-hand-holding-colorful-brain-sketch-concrete-background-85126393.jpg",
+        "about": "You are seen by others as being intellectual, creative, or artistic. You tend to be forever curious about the world around them and are interested in learning new things. A person who scores high on this trait typically has a broad rand of interests and may enjoy traveling, learning about other cultures, and trying out new experiences. You are more likely to be adaptable, accept change, and appreciate innovative technology. ",
+        "relatedProfession": ["Artist", "Travel Writer", "Pilot", "Publicist", "Entrepreneur", "Philosopher"]
+    }
+}

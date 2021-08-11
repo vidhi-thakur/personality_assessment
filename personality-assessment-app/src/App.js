@@ -1,7 +1,8 @@
 import './App.css';
 import Welcome from './pages/Welcome'
 import PersonalDetails from './pages/PersonalDetails'
-import Questions from './pages/Questions'
+import Questions from './pages/Questions';
+import SampleReport from './pages/SampleReport';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
@@ -15,6 +16,9 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Welcome />
+          </Route>
+          <Route path="/sample_report">
+            <SampleReport />
           </Route>
           <Route path="/personal_details">
             <PersonalDetails />
