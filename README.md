@@ -6,6 +6,7 @@
 2. Display personality question using a 3rd party API
 3. Input user's answers
 4. Display report according to the assessment
+5. Responsive
 
 ## Technologies used
 1. ReactJS + react hooks
