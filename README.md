@@ -12,6 +12,7 @@
 1. ReactJS + react hooks
 2. Firebase hosting 
 3. TailwindCSS
+4. Public API
 
 ## Upcoming features
 1. Personal account for users
