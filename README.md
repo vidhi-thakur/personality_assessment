@@ -20,3 +20,5 @@
 2. Save unfinished assessment
 
 ## Check live demo here: https://career-select-451a3.web.app/
+
+P.S. If you like the repo, do give it a star ⭐
