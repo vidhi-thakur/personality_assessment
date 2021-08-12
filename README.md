@@ -13,6 +13,7 @@
 2. Firebase hosting 
 3. TailwindCSS
 4. Public API
+5. Figma
 
 ## Upcoming features
 1. Personal account for users
