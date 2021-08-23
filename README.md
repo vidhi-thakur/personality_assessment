@@ -18,6 +18,7 @@
 ## Upcoming features
 1. Personal account for users
 2. Save unfinished assessment
+3. Pagination
 
 ## Check live demo here: https://career-select-451a3.web.app/
 
